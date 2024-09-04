@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    background-image: url('Images/cap-32.png'); /* Reemplaza 'Cap32.png' con el nombre y extensión correctos de tu imagen */
+    background-repeat: no-repeat;
+    background-position: center;
+    width: fit-content;
+    height: fit-content;
+  }
